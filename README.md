@@ -1,2 +1,2 @@
 # passwordapp.github.io
-<h1>This is Manage & Organize Password app github page.</h1>
+<h1>This is Manage & Organize Password mobile application github page.</h1>
